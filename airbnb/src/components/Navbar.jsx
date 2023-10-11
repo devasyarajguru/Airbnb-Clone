@@ -1,4 +1,4 @@
-import logo from '../images/img1.jpg';
+import logo from '/images/img1.jpg';
 import '../App.css'
 
 export default function Navbvar()

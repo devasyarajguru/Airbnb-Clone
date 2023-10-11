@@ -29,6 +29,7 @@ section
   padding: 10px;
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
 }
 .coverimage{
   max-width: 1000px;

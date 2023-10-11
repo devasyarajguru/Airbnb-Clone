@@ -1,4 +1,4 @@
-import coverimg from '../images/cover.jpg';
+import coverimg from '/images/cover.jpg';
 export default function Hero()
 {
     return(
